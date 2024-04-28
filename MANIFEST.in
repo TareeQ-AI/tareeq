@@ -1,0 +1,3 @@
+include docs/assets/logo.png
+include tareeq/VERSION.txt 
+include README.md
