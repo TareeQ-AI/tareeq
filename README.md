@@ -9,7 +9,7 @@
 
 ***Docs:** [https://TareeQ-AI.github.io/tareeq](https://TareeQ-AI.github.io/tareeq)
 
-`tareeq` provides tools to forecast and optimally utilize distributed supply chains for food security and sustainability. For now, most of the analysis, ML and optimization code is within `analysis/`, but this is in the process of being ported over to `tareeq`!
+`tareeq` provides tools to forecast and optimally utilize distributed supply chains for food security and sustainability. For now, most of the analysis, ML and optimization code is within `analysis/`, but this is in the process of being ported into `tareeq`!
 
 To learn more please view our presentation here: Coming soon!
 
