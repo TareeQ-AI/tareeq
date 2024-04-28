@@ -11,7 +11,7 @@
 
 `tareeq` provides tools to forecast and optimally utilize distributed supply chains for food security and sustainability. For now, most of the analysis, ML and optimization code is within `analysis/`, but this is in the process of being ported into `tareeq`!
 
-To learn more please view our presentation here: Coming soon!
+To learn more please view our presentation [here](https://www.canva.com/design/DAGDresM3e0/j_wzh1gfCD1FA3vkd7tpJA/view?utm_content=DAGDresM3e0&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 
 
 ## Installation
